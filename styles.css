@@ -1,0 +1,39 @@
+.body {
+    padding: 0;
+    margin: 0;
+}
+
+.main-flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 100vh;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 100vh;
+}
+
+.green {
+    background-color: green;
+    color: white;
+}
+
+.col_two {
+    color: green;
+}
+
+#skills > ul > li {
+    padding-bottom: 4%;
+}
+
+address {
+    padding-bottom: 10%;
+}
+
+#experience {
+    padding-top: 10%;
+}
